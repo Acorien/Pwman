@@ -1,0 +1,6 @@
+
+<RCC>
+    <qresource prefix="/">
+        <file>Pwman.ico</file>
+    </qresource>
+</RCC>
